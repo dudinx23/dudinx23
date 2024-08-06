@@ -3,7 +3,8 @@
 Meu nome é Duda
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou estudando no Ivo Liboni no 3° Ano EM
+- Tenho 17 anos
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
   ### Você pode entrar em contato comigo 💌
